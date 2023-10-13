@@ -1,0 +1,33 @@
+Authors:
+Ben Sammarco, bcsam@udel.edu
+Michael Crossley Ph.D., crossley@udel.edu
+Sequencing Technology:
+Eurofins Genomics Plate Sanger Sequencing Service
+Organism:
+Alphitobius diaperinus (Coleoptera: Tenebrionidae)
+
+Source Metadata:
+Delaware Farm 1
+	USA, Delaware, Collected July 11, 2022
+Delaware Farm 2
+	USA, Delaware, Collected July 20, 2022
+Maryland Farm 1
+	USA, Maryland, Collected March 10, 2021
+Maryland Farm 2
+	USA, Maryland, Collected January 21, 2021, Laboratory Colony since January 12, 2021
+Alabama Farm 1, House 1
+	USA, Alabama, Collected February 12, 2021
+Alabama Farm 1, House 2
+	USA, Alabama, Collected November 6, 2021
+Alabama Farm 2
+	USA, Alabama, Collected July 28, 2022
+Alabama Farm 3
+	USA, Alabama, Collected March 19, 2021
+Georgia
+	USA, Georgia, Collected March 24, 2022
+Italy
+	Greece, Collected April 2022- Laboratory colony since 2018 (4 years)
+Turkey
+	Greece, Collected April 2022- Laboratory colony since 2016 (6 years)
+Czech Republic
+	Greece, Collected April 2022- Laboratory Colony since 2021 (1 year)
